@@ -1,0 +1,121 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    max-width: 1096px; 
+    margin: 0 auto; 
+    padding: 20px;
+
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #EDF2C5;
+}
+
+
+h1 {
+    color: #778A50;
+    text-align: left;
+    margin-bottom: 20px;
+    font-family: 'Arial Black', sans-serif;
+}
+
+
+.nav {
+    background-color: #778A50; 
+    padding: 10px 0; 
+    text-align: left; 
+    padding-left: 20px;
+    border-radius: 3px; 
+    font-family: 'Arial Black', sans-serif;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #EDF2C5;
+    padding: 10px 15px; 
+    margin: 0;
+    
+    
+}
+p {
+    padding-block: 20px; 
+    color: #778A50;
+}
+
+
+.main-image img {
+    
+    text-align: center;
+    margin: 20px auto 0; 
+    width: 1096px;
+ 
+}
+
+
+.content-row {
+    margin-top: 20px; 
+    overflow: hidden; 
+}
+
+.vegetables {
+    width: 500px; 
+    float: left; 
+    background-color: #EDF2C5; 
+    border-radius: 3px; 
+}
+
+.vegetables img {
+    width: 156px; 
+    margin: 1px auto 0;
+    margin-right: 10px; 
+    float: left; 
+}
+
+/* 聯絡資訊區 */
+.contact {
+    height: 140px;
+    
+    width: 528px; 
+    float: right; 
+   
+    border-radius: 3px;
+    
+
+}
+
+h2 {
+    
+    background-color: #778A50;
+    padding: 10px;
+    font-size: 15px;
+    font-family: 'Arial Black', sans-serif;
+    color: #EDF2C5; 
+    border-radius: 3px; 
+    margin-bottom: 15px;
+}
+
+p {
+    margin-bottom: 0.01px;
+    line-height: 1; 
+    font-size: 12px;
+    background-color: #F7FBDA; 
+    padding: 8px;
+    color: #7D7D7D;
+}
+.footer {
+    background-color: #778A50;  
+    font-size: 12px;
+    text-align: center; 
+    padding: 15px 0; 
+    margin-top: 20px; 
+    border-radius: 3px; 
+    p1{color: #EDF2C5; }
+}
+
